@@ -20,6 +20,6 @@ Se desea mostrar y simular el comportamiento de una timeline, ubicada habitualme
 
 **Entrega**
 
-- Entregar el proyecto a través de un repositorio publico o comprimido con una cuenta de newcombin
+- Entregar el proyecto a través de un repositorio público o compartido con una cuenta de newcombin
 - Todos los archivos necesarios del proyecto.
 - El proyecto debe contar con un archivo readme que detalle los pasos a seguir para utilizar y ejecutar el proyecto.
